@@ -1,0 +1,6 @@
+numpy 
+random
+opencv-python
+asyncio
+platform
+moviepy
